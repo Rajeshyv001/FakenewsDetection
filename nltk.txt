@@ -1,0 +1,7 @@
+wordnet
+omw-1.4
+<<<<<<< HEAD
+stopwords
+=======
+stopwords
+>>>>>>> 61857f608dc9a2637cca9e909deb5d1b6326eb02
